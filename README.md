@@ -1,4 +1,4 @@
-# Powered-Wheelchair
+# Motorized-Wheelchair
 Designed a motorized wheelchair with multi-directional movement, RPM display, and battery level indicator
 
 Image of full circuit:
